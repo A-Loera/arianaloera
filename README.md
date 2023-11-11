@@ -6,3 +6,4 @@
 3. [data science](https://livecsupomona-my.sharepoint.com/:x:/g/personal/arianaloera_cpp_edu/EX1CrgliBS5CoAq_ICZ7KRgBvce-Bi2AUHANvwxgc9lSRw?e=fX6NBx)
 
 ## resume:
+[resume](https://github.com/A-Loera/arianaloera/blob/main/_A.Loera_Resume.pdf)
